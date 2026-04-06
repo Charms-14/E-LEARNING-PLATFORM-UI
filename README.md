@@ -13,3 +13,8 @@
 "MENTOR": NEELA SANTOSH
 
 ## A MODERN E-LEARNING PLATFORM UI DESIGNED FOR SEAMLESS ONLINE LEARNING EXPERIENCE. FOCUSES ON INTUITIVE NAVIGATION, CLEAN DESIGN, AND USER-FRIENDLY INTERACTION.
+
+# OUTPUT: 
+
+<img width="1909" height="958" alt="Image" src="https://github.com/user-attachments/assets/a3ac1694-c70d-4b4c-ab05-6bfe3716937e" />
+<img width="1909" height="1099" alt="Image" src="https://github.com/user-attachments/assets/75b98fd1-2b30-4cec-9677-a8fc9ff5b52d" />
