@@ -1,0 +1,61 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f4f288;
+}
+
+header {
+  background: #333;
+  color: white;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav a {
+  color: rgb(242, 246, 241);
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.courses {
+  padding: 20px;
+}
+
+.course-card {
+  background: rgb(247, 143, 148);
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 10px;
+}
+
+.course-card a {
+  background: #5997da;
+  color: white;
+  padding: 8px 12px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.video-section {
+  padding: 20px;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.progress-bar {
+  width: 80%;
+  background: #f4f6f4;
+  height: 25px;
+  border-radius: 20px;
+}
+
+#progress-fill {
+  height: 100%;
+  width: 0%;
+  background: green;
+  border-radius: 20px;
+}
